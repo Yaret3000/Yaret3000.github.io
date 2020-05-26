@@ -1,0 +1,31 @@
+.pic
+{
+    margin-bottom: 2em;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.orange
+{
+    background-color: #f16529;
+}
+
+.purple
+{
+    background-color: #bb599c;
+}
+
+.red
+{
+    background-color: #d62f2a;
+}
+
+.blue
+{
+    background-color: #0c2c65;
+}
+
+.corn-roudn
+{
+    border-radius: 25px;
+}
